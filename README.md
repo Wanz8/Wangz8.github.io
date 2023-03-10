@@ -5,8 +5,6 @@ The purpose of this README is to guide you through the process of hosting and fo
 ### Prerequisites
 * A Markdown formatted resume
 * A GitHub account (If you didn't have yet, click [here](https://github.com/join))
-* [Ruby](https://www.ruby-lang.org/en/downloads/)
-* [Jekyll](https://jekyllrb.com/docs/installation/)
 * Install [markdown editor](https://www.shopify.com/partners/blog/10-of-the-best-markdown-editors)
 
 
